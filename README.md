@@ -26,7 +26,7 @@
 
 
 >Виконано практичну роботу 1 варіант 11. 
->Я встановив Oracle VirtualBox, також графічний інтерфейс до нього Gnome, надалі унизу показане виконання роботи.
+>Я встановив FreeBSD на Oracle VirtualBox, також графічний інтерфейс до нього Gnome, надалі унизу показане виконання роботи.
 
 
 ![image](https://github.com/user-attachments/assets/e3fdfc80-dca2-4589-9e5c-deb9fbf51c55)
